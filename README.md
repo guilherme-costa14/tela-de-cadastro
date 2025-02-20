@@ -25,3 +25,17 @@
 - mínimo 8 caracteres
 - máximo 60 caracteres
 - tem que ser igual a senha
+- campo obrigatório
+
+### Cidade
+- campo obrigatório
+- tem que existir
+- mínimo de caracteres 2
+- máximo de caracteres 30
+
+### Estado
+- mínimo de caracteres 2
+- máximo de caracteres 2
+- campo obrigatório
+- tem que existir
+- 
