@@ -63,3 +63,12 @@ function fnValidarEmail(email){
         return false;
     }
 }
+
+module.exports = {
+    fnValidarMinimoDeCaracteres,
+    fnValidarCampoObrigatorio,
+    fnValidarSenhaIgual,
+    fnValidarSenhaMaiuscula,
+    fnValidarSenhaCaracterEspecial,
+    fnValidarEmail
+}
